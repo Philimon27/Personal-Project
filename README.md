@@ -1,4 +1,4 @@
-# cs445-labs
+# Study Project
 
 1. [Lab 1 - Git](Lab1/lab1.md)
 2. [Lab 2 - TypeScript](Lab3/lab3.md)
